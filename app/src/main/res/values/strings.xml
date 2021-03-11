@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="start">Start</string>
+    <string name="score">Score</string>
+    <string name="play_return">playReturn</string>
+    <string name="background">background</string>
 </resources>
