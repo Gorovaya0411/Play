@@ -12,6 +12,7 @@
         android:id="@+id/imageViewPresent"
         android:layout_width="100dp"
         android:layout_height="100dp"
+        android:onClick="click"
         app:srcCompat="@drawable/pod"
         tools:ignore="MissingConstraints" />
 
