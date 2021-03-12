@@ -37,9 +37,6 @@ class MainActivity : AppCompatActivity() {
             onStartAnimation()
         }
         imageViewPresent.setOnClickListener {
-            if (DEFAULT_ANIMATION_DURATION.toInt() == 5000){
-                DEFAULT_ANIMATION_DURATION + 1000
-            }
 
             score++
             textViewGlasses.text = "$score"
